@@ -15,3 +15,6 @@ The following images show the final product:
 ![last part of the webpage.](./assets/images/Final-Screenshot-2.png)
 
 > **Note**: The webpage showed up to big on my browser to show all at once, needed to take 2 screenshots.
+
+## Link to deployed application ##
+[link to webpage on github](https://awonka.github.io/Austin-Wonka-HW1/)
