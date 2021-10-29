@@ -11,8 +11,8 @@ Realigned all of the html elements to follow semantic rules.
 
 The following images show the final product:
 
-![The Horiseon page describes SEO and helpful ways to manage your business.](./assets/images/Final-Screenshot-1.png)
-![last part of the webpage.](./assets/images/Final-Screenshot-2.png)
+![The Horiseon page describes SEO and helpful ways to manage your business.](./Assets/images/Final-Screenshot-1.png)
+![last part of the webpage.](./Assets/images/Final-Screenshot-2.png)
 
 > **Note**: The webpage showed up to big on my browser to show all at once, needed to take 2 screenshots.
 
